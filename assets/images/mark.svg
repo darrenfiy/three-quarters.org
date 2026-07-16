@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">四分之三共生標誌</title>
+  <desc id="desc">一個保留四分之一開口的圓環</desc>
+  <circle cx="60" cy="60" r="48" fill="none" stroke="#e7dfcf" stroke-width="14"/>
+  <circle cx="60" cy="60" r="48" fill="none" stroke="#2f5a4b" stroke-width="14" stroke-linecap="round" stroke-dasharray="226.2 75.4" transform="rotate(-90 60 60)"/>
+  <circle cx="60" cy="60" r="20" fill="#f8f4eb"/>
+  <path d="M60 32v56M32 60h56" stroke="#b28a4b" stroke-width="2" opacity=".65"/>
+  <circle cx="60" cy="60" r="7" fill="#b28a4b"/>
+</svg>
